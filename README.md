@@ -10,6 +10,7 @@ Simple MIDI parser implemented in Python 2.7
 * - Current running status support is glitchy, code tries to skip over it
 * Support System messages
 * - Current Sys messages are kept in raw hex-code
+* Port the code to Python 3.6
 
 ## How to use:
 * Import the `song_class` to start
